@@ -1,0 +1,13 @@
+{
+	"config": 
+	{
+		"global": 
+		{
+			"username"	: 		 											"9900945531",	
+			"password"	: 	"8088784052" ,
+			"url"		:	"https://www.flipkart.com",
+			"browser" 	:  	"chrome"
+			
+		}
+	}
+}
